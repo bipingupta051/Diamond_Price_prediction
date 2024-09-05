@@ -4,4 +4,4 @@ numpy
 seaborn
 -e .
 
-
+scikit-learn
